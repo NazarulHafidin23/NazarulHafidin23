@@ -58,13 +58,4 @@
 <hr/>
 
 <!-- Visitor badge di tengah bawah -->
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=NazarulHafidin23&icon=0&color=0" alt="Visitor Count"/>
-  </a>
-</div>
-
-<!-- Proudly created with GPRM -->
-<p align="center">
-  <sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub>
-</p>
+[![](https://visitcount.itsvg.in/api?id=NazarulHafidin23&icon=0&color=0)](https://visitcount.itsvg.in)
