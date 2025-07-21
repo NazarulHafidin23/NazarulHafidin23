@@ -1,5 +1,5 @@
 <div align="center">
-![CodingGIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDY1aG85dnNwbHYxbGZ5YXF1aHg5azhpYmNkYWF4NGFyNW00bGZ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)
+![CodingGIF](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
   <h1>👋Halo coders, Saya M. Nazarul Hafidin</h1>
 </div>
 
