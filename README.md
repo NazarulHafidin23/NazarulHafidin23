@@ -37,11 +37,34 @@
 
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=NazarulHafidin23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NazarulHafidin23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NazarulHafidin23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Posisi kiri, tengah, kanan -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=NazarulHafidin23&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+      </td>
+      <td align="center">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=NazarulHafidin23&theme=dark&hide_border=false" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazarulHafidin23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      </td>
+    </tr>
+  </table>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=NazarulHafidin23&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Garis pemisah -->
+<hr/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Visitor badge di tengah bawah -->
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=NazarulHafidin23&icon=0&color=0" alt="Visitor Count"/>
+  </a>
+</div>
+
+<!-- Proudly created with GPRM -->
+<p align="center">
+  <sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub>
+</p>
