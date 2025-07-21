@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDY1aG85dnNwbHYxbGZ5YXF1aHg5azhpYmNkYWF4NGFyNW00bGZ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="120" />
+![Image](https://github.com/user-attachments/assets/27264880-91a2-49c7-a8a6-1e3b6e1037ea)
   <h1>👋Halo coders, Saya M. Nazarul Hafidin</h1>
 </div>
 
