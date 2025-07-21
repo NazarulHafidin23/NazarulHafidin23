@@ -40,7 +40,7 @@
 <!-- Statistik kiri, tengah, kanan ukuran kecil -->
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=NazarulHafidin23&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="300" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NazarulHafidin23&theme=dark&hide_border=false" width="325" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NazarulHafidin23&theme=dark&hide_border=false" width="330" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazarulHafidin23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="300" />
 </div>
 
