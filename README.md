@@ -1,4 +1,5 @@
-<div align="center">alo coders, Saya M. Nazarul Hafidin</h1>
+<div align="center">
+  <h1>👋Halo coders, Saya M. Nazarul Hafidin</h1>
 </div>
 
 ---
