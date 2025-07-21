@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>Halo, Saya M. Nazarul Hafidin</h1>
+  <h1>👋Halo coders, Saya M. Nazarul Hafidin</h1>
 </div>
 
 ---
 
 <p align="center">
-  👨‍💻 Seorang Junior Fullstack Web Developer yang suka bermain-main dengan kode dan menciptakan hal-hal yang menakjubkan di Web.
+  👨‍💻 Seorang Junior Fullstack Web Developer yang suka bermain-main dengan kode yang haus akan hal ilmu dan senang mempelajari hal baru.
   <br/>
   ✨ Saya percaya bahwa setiap baris kode adalah kesempatan untuk belajar dan berkreasi.
   <br/>
