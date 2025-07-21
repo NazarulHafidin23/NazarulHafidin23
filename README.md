@@ -1,6 +1,4 @@
-<div align="center">
-![CodingGIF](https://github.com/user-attachments/assets/386801db-84fc-40cd-8a29-39663aba5fa7)
-  <h1>👋Halo coders, Saya M. Nazarul Hafidin</h1>
+<div align="center">alo coders, Saya M. Nazarul Hafidin</h1>
 </div>
 
 ---
