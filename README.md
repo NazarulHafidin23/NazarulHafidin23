@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  👨‍💻 Seorang Junior Fullstack Web Developer yang suka bermain-main dengan kode yang haus akan hal ilmu dan senang mempelajari hal baru.
+  👨‍💻 Seorang Junior Fullstack Web Developer yang haus akan ilmu dan senang mempelajari hal baru.
   <br/>
   ✨ Saya percaya bahwa setiap baris kode adalah kesempatan untuk belajar dan berkreasi.
   <br/>
