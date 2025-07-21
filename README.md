@@ -1,4 +1,5 @@
 <div align="center">
+![CodingGIF](https://i.imgur.com/abc123.gif)
   <h1>👋Halo coders, Saya M. Nazarul Hafidin</h1>
 </div>
 
