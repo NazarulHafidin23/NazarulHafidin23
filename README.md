@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/NazarulHafidin23/NazarulHafidin23/blob/main/CodingGIF.gif?raw=true" width="100"/>
+  <img src="https://i.imgur.com/abc123.gif" width="100"/>
   <h1>Halo, Saya M. Nazarul Hafidin</h1>
 </div>
 
