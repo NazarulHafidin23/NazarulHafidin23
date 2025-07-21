@@ -3,8 +3,6 @@
   <h1>👋Halo Coders, Saya M. Nazarul Hafidin</h1>
 </div>
 
----
-
 <p align="center">
   👨‍💻 Seorang Junior Fullstack Web Developer yang haus akan ilmu dan senang mempelajari hal baru.
   <br/>
