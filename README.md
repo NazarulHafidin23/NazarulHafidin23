@@ -1,5 +1,5 @@
 <div align="center">
-![Image](https://github.com/user-attachments/assets/47951355-fa5c-4b6c-814c-d3c7de13b083)
+![CodingGIF](https://github.com/user-attachments/assets/386801db-84fc-40cd-8a29-39663aba5fa7)
   <h1>👋Halo coders, Saya M. Nazarul Hafidin</h1>
 </div>
 
