@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://i.imgur.com/abc123.gif" width="100"/>
   <h1>Halo, Saya M. Nazarul Hafidin</h1>
 </div>
 
