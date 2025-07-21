@@ -1,7 +1,5 @@
 <div align="center">
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100"/>
-</p>
+  <img src="CodingGIF.gif" width="100"/>
   <h1>Halo, Saya M. Nazarul Hafidin</h1>
 </div>
 
